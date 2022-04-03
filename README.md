@@ -7,3 +7,5 @@ The management has made the decision to invest in Madrid, and has commissioned u
 The expected final results that want the company was the tipolgy of flats that the team of valorations need to search in the existing posibilities in the city, and the main neighborhouds or geograpich areas in wich focus
 
 The main deliverable is the typology (or typologies) of properties that the valuation team should look for among the existing opportunities in the city and the main neighborhoods or geographic areas to focus on.
+
+*This case is developed inside the Python Mastery Data Science Program.*
